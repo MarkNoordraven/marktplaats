@@ -23,7 +23,7 @@ for x in range(len(ws['B'])):
         break
 
 # x is de regel van de fotos die je wil uploaden
-x = 5
+x = 1
 
 file = open('D:\Linux Ubuntu 2019\Documents\marktplaats.txt', 'r')
 
